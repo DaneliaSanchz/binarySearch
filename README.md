@@ -1,2 +1,2 @@
 # binarySearch
-Implementación del algoritmo Búsqueda Binaria
+Implementación del algoritmo Búsqueda Binaria en C
